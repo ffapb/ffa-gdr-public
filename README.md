@@ -1,2 +1,2 @@
 # ffa-gdr-public
-This FFA's first public Git data repository
+This is FFA's first public Git data repository
